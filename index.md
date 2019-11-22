@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Welcome to Folio.</h1>
+<p>Folio is a website</p>
 </body>
 </html>
